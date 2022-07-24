@@ -27,7 +27,7 @@ if Python is not installed then sudo apt -y install python3.8
 #sudo pip3 install ansible[azure]
 #wget https://raw.githubusercontent.com/ansible-collections/azure/dev/requirements-azure.txt
 #sudo pip3 install -r requirements-azure.txt 
-install the additional modules 'saved as require2.txt
+install the additional modules 'saved as requires2.txt : sudo pip3 install -r requires2.txt 
 
 
 #at the time of this writing, the pycrypto package (a collection of secure hash functions such as SHA256) does not get installed automatically with python3.7+
